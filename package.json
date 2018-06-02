@@ -1,0 +1,26 @@
+{
+  "name": "tron-vanity-wallet",
+  "version": "1.0.0",
+  "description": "Create vanity wallets for the Tron protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tron",
+    "cryptocurrency",
+    "wallet",
+    "trx"
+  ],
+  "author": "Mobilise Me",
+  "license": "ISC",
+  "dependencies": {
+    "base-58": "0.0.1",
+    "crypto-js": "^3.1.9-1",
+    "elliptic": "^6.4.0",
+    "js-sha3": "^0.7.0",
+    "prompt": "^1.0.0",
+    "prompt-question": "^5.0.2",
+    "readline": "^1.3.0"
+  }
+}
